@@ -1,2 +1,2 @@
 # project_neo
-neonatologia
+neonatologia, conexion a base de datos
