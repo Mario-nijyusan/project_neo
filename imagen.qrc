@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagenes/fototerapia.jpg</file>
+        <file>imagenes/archivonuevo.png</file>
+        <file>imagenes/cruzazul.png</file>
+        <file>imagenes/grafica.png</file>
+        <file>imagenes/maletinrojo.png</file>
+        <file>imagenes/medica.png</file>
+        <file>imagenes/Beba.png</file>
+        <file>imagenes/bebe.png</file>
+        <file>imagenes/oximicro.jpg</file>
+        <file>imagenes/oximicro2.jpg</file>
+        <file>imagenes/twitter.png</file>
+        <file>imagenes/whatsapp.png</file>
+        <file>imagenes/facebook.png</file>
+        <file>imagenes/correoelectronico.png</file>
+        <file>imagenes/celular.png</file>
+    </qresource>
+</RCC>
